@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<image src="https://i.ytimg.com/vi/hyA1AmE2Btc/maxresdefault.jpg" alt="Текст с описанием картинки">
+<image src="https://i-enlisted.cdn.gaijin.net/original/3X/e/3/e3f05b6d800514c232643e8e5394e5f784e6ec01.jpeg">
 
 <!--
 **Panda2k30/Panda2k30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
